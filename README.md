@@ -24,8 +24,6 @@ Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
 
-Looked at multiple students and utilized google (students rmille70 and Assel Aljazwe, rmille70 communicated the answer well, however Assel was far similar to a university level lecture which was an amazing breakdown)
-
 There are 4 scenarios for the median-of-three approach Good = G Big = B Small = S :
     First scenario, where all three values are Good: GGG
     Second, where there are two Good values and one Big: (BGG, GGB, GBG)
